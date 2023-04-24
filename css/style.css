@@ -1,0 +1,46 @@
+h2{
+    font-family: 'Roboto', sans-serif;
+}
+
+p1 {
+    font-family: 'Dancing Script', cursiva;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+p2{
+    font-family: 'Bruno Ace'
+}
+p3{
+    font-family: 'Roboto', sans-serif;
+}
+p4{
+    font-family: 'Dancing Script', cursiva;
+}
+/* comentarios en css */
+
+/*ETIQUETAS */
+p1 {
+    background-color: rgb(12, 12, 207);
+}
+p2{
+    background-color: rgb(27, 216, 216);
+}
+p3{ background-color: rgb(188, 24, 24);}
+p4{
+    background-color: rgb(180, 177, 198);
+}
+/*class */
+
+#texto{
+    color: blueviolet;
+}
+#titu{
+    color: chartreuse;
+}
+#loci{
+    color: rgb(61, 141, 141);
+}
+#toto{
+    color: goldenrod;
+}
